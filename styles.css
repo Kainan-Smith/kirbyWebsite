@@ -1,0 +1,36 @@
+body {
+    background-color: #FFBDF0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+blockquote {
+    font-size: 24px;
+    background-color: #ffe5f9;
+}
+
+table {
+
+}
+
+a:hover {
+    color: #9dffaa;
+}
+
+img {
+    background-color: white;
+    text-align: center;
+    height: 200px;
+}
+
+nav {
+    background-color: #fa78ca;
+    padding: 50px;
+}
